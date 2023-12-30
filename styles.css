@@ -1,11 +1,13 @@
 .header {
     text-align: center;
-    color:darkgreen;
-    background-color: bisque;
+    color:rgb(169, 181, 5);
 }
 
 .recipe {
     color:rgb(21, 70, 8);
-    background-color: bisque;
     font-size: 20px;
+}
+
+* {
+    background-color: rgb(46, 90, 66);
 }
