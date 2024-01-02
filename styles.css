@@ -32,6 +32,10 @@ a:link {
     text-decoration: underline;
 }
 
+.disclaimer {
+    font-size: 12px;
+}
+
 * {
     background-color: rgb(46, 90, 66);
 }
